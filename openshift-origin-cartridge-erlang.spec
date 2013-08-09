@@ -7,7 +7,7 @@ Release:    1%{?dist}
 Group:      Development/Languages
 License:    ASL 2.0
 URL:        https://www.openshift.com
-Source0:    http://mirror.openshift.com/pub/openshift-origin/source/%{name}/%{name}-%{version}.tar.gz
+Source0:    http://lsm5.fedorapeople.org/%{name}/%{name}-%{version}.tar.gz
 Requires:   rubygem(openshift-origin-node)
 Requires:   openshift-origin-node-util
 
