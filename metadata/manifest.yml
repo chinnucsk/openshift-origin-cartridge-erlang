@@ -10,8 +10,9 @@ Cartridge-Vendor: lsm5
 Vendor: lsm5
 Categories:
   - web_framework
-  - experimental
-Website:
+  - erlang
+  - service
+Website: http://www.erlang.org
 Help-Topics:
   "Getting Started": https://www.openshift.com/community/videos/getting-started-with-erlang-applications-on-openshift
 Cart-Data:
